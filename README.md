@@ -1,7 +1,7 @@
-# hailstone
-Program that print numbers following the Collatz conjeture
+# Hailstone conjecture
+Program that print numbers following the Collatz conjecture
 
-provide the program a number and returns the Collatz conjeture
+provide the program a number and returns the Collatz conjecture
 
 more info:
 https://en.wikipedia.org/wiki/Collatz_conjecture
